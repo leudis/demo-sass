@@ -1,0 +1,21 @@
+.parent {
+  color: green;
+  background-color: #646464;
+  padding: 20px;
+}
+.parent-nested1 {
+  padding: 5px;
+  border: dashed;
+}
+.parent .nested2 {
+  padding: 10px;
+  background-color: blue;
+  font-weight: bold;
+}
+
+.demo {
+  color: green;
+  background-color: #646464;
+}
+
+/*# sourceMappingURL=demo.css.map */
